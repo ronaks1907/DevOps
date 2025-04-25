@@ -1,1 +1,7 @@
+1. What is Docker?
+Ans :- Docker is a Containerization platform for packaging, deploying, and running applications as CONTAINERS.
 
+2. What is containerization?
+Ans :- Containerization is a lightweight form of virtualization that allows you to encapsulate an application and its dependencies into a self-contained unit called a "container." 
+Docker applications run in containers that can be used on any system: a developer’s laptop, systems on premises, or in the cloud. (it runs the same)
+Containers share the host operating system's kernel, but they have their own isolated file system, processes, and networking.
